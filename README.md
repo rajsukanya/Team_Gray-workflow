@@ -1,5 +1,5 @@
 # Team_Gray-workflow
 
-Ariella Mordukhayeva - Contributor
-Sukanya Raj - Contributor
-Sajarin Dider - Maintainer
+Ariella Mordukhayeva - Contributor  
+Sukanya Raj - Contributor  
+Sajarin Dider - Maintainer  
