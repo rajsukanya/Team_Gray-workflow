@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Favorite Colors
+=======
+Favorite Colors:
+>>>>>>> 58b3d42e82f769a531ee6643f0fec0d71e1affb4
 
 Ariella: Blue
 Sajarin: Red 
